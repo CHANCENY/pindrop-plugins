@@ -1,0 +1,2 @@
+autocomplete.users:
+  handler: Simp\Pindrop\Modules\admin\src\Plugin\AutocompleteInternal::matchUsers
